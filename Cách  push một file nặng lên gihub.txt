@@ -1,0 +1,6 @@
+Cách  push một file nặng lên gihub:
+1. git lfs install
+2. git lfs track "đường dẫn thư mục đó"
+3. git add .
+4. git commit -m "Add large file using Git LFS"
+5. git push origin main
